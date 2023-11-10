@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MarkovRunner
+comment1.params=
+comment1.target=void\ runMarkov()
+comment2.params=s
+comment2.target=void\ printOut(java.lang.String)
+comment3.params=
+comment3.target=void\ teshHashMap()
+comment4.params=
+comment4.target=void\ compareTwoMarkov()
+numComments=5
